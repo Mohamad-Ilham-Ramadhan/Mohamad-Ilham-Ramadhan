@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohamad-Ilham-Ramadhan
 - 👀 I’m interested in fullstack web development like laravel, express, mongodb, etc.
-- 🌱 I’m currently learning mern stack and laravel.
+- 🌱 I’m currently learning mern stack, jamstack and laravel.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
